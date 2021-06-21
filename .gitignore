@@ -1,0 +1,6 @@
+mem.*
+*.class
+
+# Package Files #
+*.war
+*.ear
